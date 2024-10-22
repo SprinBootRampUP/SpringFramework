@@ -1,0 +1,12 @@
+Spring bean scopes
+
+Singleton - only one object is created in the IOC container
+Prototype
+Request
+Session
+Global Session
+
+
+Datasource Bean
+Entity Manager Factory
+Transction Manager
